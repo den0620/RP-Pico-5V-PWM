@@ -19,6 +19,4 @@ and your uf2 executable should be in ./build/src/5vpwm.uf2
 # Notice
 Tach (yellow) (reporting) wire is not utilized
 
-Graduation doesn't seem to work
-
 Closely inspect your fan's wires to connect everything right
